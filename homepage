@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Delivery App</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="./image1.html">Menu</a></li>
+                <li><a href="./main.html">Order Now</a></li>
+                <li><a href="./contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <h1>Welocme To Hana's Kitchen</h1>
+            <p>Discover a World of Flavors, Right at Your Doorstep</p>
+            <a href="/menu" class="btn">Explore Our Menu</a>
+        </section>
+
+        <section class="how-it-works">
+            <h2>How It Works</h2>
+            <div class="step">
+                <img src="https://content.jdmagicbox.com/comp/hyderabad/r5/040pxx40.xx40.200210120414.z5r5/catalogue/eat-neat-gachibowli-hyderabad-restaurants-hbhlp7qpp9.jpg" alt="Step 1">
+                <h3>Step 1</h3>
+                <p>Choose from a variety of restaurants in your area.</p>
+            </div>
+            <div class="step">
+                <img src="https://www.restroapp.com/blog/wp-content/uploads/2019/10/Make-a-Powerful-Impression-With-Fully-Food-Customization-Option-RestroApp.png" alt="Step 2">
+                <h3>Step 2</h3>
+                <p>Place your order and customize it to your preferences.</p>
+            </div>
+            <div class="step">
+                <img src="https://thumbs.dreamstime.com/b/top-view-table-full-different-asian-meals-served-wooden-plates-young-people-eating-sticks-110068550.jpg" alt="Step 3">
+                <h3>Step 3</h3>
+                <p>Relax while we prepare and deliver your delicious meal.</p>
+            </div>
+        </section>
+
+        <section class="featured-restaurants">
+            <h2>Featured Restaurants</h2>
+            <div class="restaurant">
+                <img src="https://imgmedia.lbb.in/media/2023/08/64d37c36a8a4940ea79350ec_1691581494379.jpg" alt="Restaurant 1">
+                <h3>Delicious Bites</h3>
+                <p>Explore a diverse menu of cuisines from around the world.</p>
+            </div>
+            <div class="restaurant">
+                <img src="https://images.squarespace-cdn.com/content/v1/53b839afe4b07ea978436183/1daa9086-0f1d-4d65-86b5-4a15a36d08d4/traditional-food-around-the-world-Travlinmad.jpg" alt="Restaurant 2">
+                <h3>Healthy Eats</h3>
+                <p>Indulge in nutritious options for a guilt-free treat.</p>
+            </div>
+            <div class="restaurant">
+                <img src="https://images.onlymyhealth.com/imported/images/2023/July/06_Jul_2023/Main_sugarcraving.jpg" alt="Restaurant 3">
+                <h3>Fast & Furious</h3>
+                <p>Get your favorite fast food delivered in no time.</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Food Delivery App</p>
+    </footer>
+</body>
+</html>
